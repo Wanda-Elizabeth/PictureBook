@@ -14,6 +14,27 @@
         android:theme="@style/Theme.PictureBookActivity"
         tools:targetApi="31">
         <activity
+            android:name=".Image5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Image4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Image3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Image2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ClothActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".photoActivity2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
